@@ -17,7 +17,7 @@ _This project was created for Epicodus bootcamp to show proficiency in Ruby, cla
 
 ## Setup/Installation Requirements
 
-* _Clone the GitHub [repository](https://github.com/christophermneal/prime_sifter) or download and open the Zip on your local machine.
+* _Clone the GitHub [repository](https://github.com/christophermneal/prime_sifter) or download and open the Zip on your local machine._
 
 ## Known Bugs
 
