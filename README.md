@@ -1,8 +1,8 @@
-# __
+# _Prime Sifter_
 
-#### Created By _**Christopher Neal**_
+#### Created By _**Christopher Neal, Morgan Waites, Drew Henderson, Chase Stokes**_
 
-#### _An application to_
+#### _An application to find all the prime numbers below the entered number_
 
 ## Technologies Used
 
@@ -13,19 +13,15 @@
 
 ## Description
 
-_This project was created for Epicodus bootcamp to show proficiency in. The application is for . The user can ._
+_This project was created for Epicodus bootcamp to show proficiency in Ruby, classes, and Enumerable Modules. The user can input a number and the program will return all the prime numbers up to that number._
 
 ## Setup/Installation Requirements
 
-* _Clone the GitHub [repository](https://github.com/christophermneal/) or download and open the Zip on your local machine.
+* _Clone the GitHub [repository](https://github.com/christophermneal/prime_sifter) or download and open the Zip on your local machine.
 
 ## Known Bugs
 
 _None at this time_
-
-## Future Updates
-
-* __
 
 ## License
 
